@@ -15,6 +15,11 @@ The pipeline is implemented in Python using `NumPy` and `SciPy`, and includes:
 - Multi-scale approach to capture structures of varying size (e.g., blobs, vessels, fibers)
 
 ---
+## 🖼 Poster Preview
+
+![Poster preview](./poster_preview.png)
+
+[Click to view full-resolution poster (PDF)](./WHAT%20MATTERS%20IN%20THE%20CEREBELLUM.pdf)
 
 ##  Features Extracted
 
